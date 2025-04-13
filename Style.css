@@ -103,6 +103,20 @@ nav a:hover{
     color: rgb(63, 140, 140);
 }
 
+@media screen and (max-width: 768px) {
+    img{
+        width: 30%;
+    }
+
+    footer img{
+        width: 50%;
+    }
+
+    li a{
+        width: 30%;
+    }
+}
+
   
 
 
