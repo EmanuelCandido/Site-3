@@ -25,6 +25,7 @@ img{
     width: 6rem;
     height: auto;
     
+    
 }
 
 .center{
@@ -56,7 +57,8 @@ footer a{
 
 footer img{
     width: 4rem;
-    height: 4rem;
+    height: auto;
+    
    
 }
 
