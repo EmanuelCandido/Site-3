@@ -41,18 +41,18 @@ fieldset{
 
 footer{
     display: flex;
-    justify-content: center;
+    justify-content:center;
    
     
 }
 
 footer p{
-    margin-top: 0.2vw;
+    margin-top: 0.8vw;
     
     }
 
 footer a{
-        margin: 2vw;
+        margin: 2rem;
     }
 
 footer img{
@@ -105,16 +105,14 @@ nav a:hover{
 
 @media screen and (max-width: 768px) {
     img{
-        width: 30%;
-    }
-
-    footer img{
         width: 50%;
     }
 
-    li a{
-        width: 30%;
+    footer img{
+        width: 80%;
     }
+
+
 }
 
   
