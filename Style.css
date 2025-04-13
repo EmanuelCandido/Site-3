@@ -22,7 +22,7 @@ a{
 }
 
 img{
-    width: 6rem;
+    width: 6vw;
     height: auto;
     
     
@@ -52,11 +52,11 @@ footer p{
     }
 
 footer a{
-        margin: 2rem;
+        margin: 2vw;
     }
 
 footer img{
-    width: 4rem;
+    width: 4vw;
     height: auto;
     
    
@@ -80,7 +80,7 @@ margin-top: 1vw;
 }
 
 li a{
-    font-size: 2.5rem;
+    font-size: 2.5vw;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(255, 255, 255);
 }
