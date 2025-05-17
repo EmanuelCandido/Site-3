@@ -35,8 +35,9 @@ img{
 
 fieldset{
     display:inline;
-    border: 0.2vw solid rgb(63, 140, 140);
-    border-radius: 2vw;
+    border: 0.2vw rgba(63, 140, 140, 0.493);
+    border-radius: 1vw;
+    background-color: rgba(63, 140, 140, 0.493);
 }
 
 footer{
@@ -89,13 +90,13 @@ body{
     background-color: rgb(24, 34, 38);
 }
 
-p,h1,h2{
+h1,h2{
     color: rgb(255, 255, 255);
     font-family:Arial, Helvetica, sans-serif
 }
 
 h3{
-    color: rgb(63, 140, 140);
+    color: rgba(7, 201, 191, 0.664);
     font-family:poertsenone;
     
     
@@ -108,9 +109,14 @@ nav a:hover{
 .text{
     max-width: 70vw;
     margin-top: 0;
+   
+}
+
+p{
+    color: rgba(255, 255, 255, 0.808);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
 
-  
 
 
